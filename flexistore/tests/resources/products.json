@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "asdasd",
+        "uom_id": 2,
+        "price_per_unit": 45
+    },
+    {
+        "id": 2,
+        "name": "asdasd",
+        "uom_id": 1,
+        "price_per_unit": 45
+    }
+]
